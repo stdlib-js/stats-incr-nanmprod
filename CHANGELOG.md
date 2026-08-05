@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-04)
+## Unreleased (2026-08-05)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b51ebff`](https://github.com/stdlib-js/stdlib/commit/b51ebff8a15e9d9cf8d9bb64d569d709f45fc994) - **docs:** update Markdown equation elements [(#13928)](https://github.com/stdlib-js/stdlib/pull/13928) _(by stdlib-bot)_
 -   [`1495d4a`](https://github.com/stdlib-js/stdlib/commit/1495d4a237957ca297acd5f5cdfa294591164e73) - **feat:** add `stats/incr/nanmprod` [(#13720)](https://github.com/stdlib-js/stdlib/pull/13720) _(by Arjan-P, Philipp Burckhardt)_
 
 </details>
